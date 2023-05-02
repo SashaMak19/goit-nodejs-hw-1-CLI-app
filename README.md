@@ -13,3 +13,7 @@ https://monosnap.com/file/nHZB7cKll0RAcP4vadzReTC9ZzX9wd
 
 node index -a remove id ??
 https://monosnap.com/file/yPoUTgnY8FgiZTO6druTOmOXIpD8Xq
+
+Commands:
+npm start — starting the server in production mode
+npm run dev — starting the server in development mode 
