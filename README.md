@@ -1,4 +1,4 @@
-CLI додаток
+CLI APP
 
 Examples:
 
